@@ -3,7 +3,9 @@ Teaching a visuomotor dynamic neural network (VMDNN) how to drive in a 2D car si
 Developed using Python 3.6 and PyTorch 4.
 
 ### How to use
-- Download all the code and run main.py
+- Download all the code into a directory
+- Create 'checkpoints' and 'logs' folders under the same directory
+- Run 'main.py'
 - Set 'MODE' to 1 for training, 2 for resuming from latest checkpoint, 0 for testing.
 
 
