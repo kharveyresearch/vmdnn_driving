@@ -1,6 +1,6 @@
 # vmdnn_driving
 Teaching a visuomotor dynamic neural network (VMDNN) how to drive in a 2D car simulator.
-Developed using Python 3.6 and PyTorch 4.
+Developed using Python 3.6 and PyTorch 0.4.
 
 ### How to use
 - Download all the code into a directory
