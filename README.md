@@ -7,7 +7,8 @@ Loosely based on https://github.com/mulkkyul/p-vmdnn_tensorflow
 - Download all the code into a directory
 - Create 'checkpoints' and 'logs' folders under the same directory
 - Run 'main.py'
-- Set 'MODE' to 1 for training, 2 for resuming from latest checkpoint, 0 for testing.
+- Set 'MODE' to 1 for training, 2 for resuming from latest checkpoint, 0 for testing
+- To use different network settings, edit net.json directly or use the helper function createnet.py to generate a new net.json
 
 
 ## Requirements:
@@ -15,7 +16,7 @@ PyTorch
 
 
 ## References
-If you use this code, please cite the following reference.
+If you use this code, please cite the following reference:
 - Harvey, K. (2018). End-to-end learning of a 2D driving task using visuomotor control.
 
 
